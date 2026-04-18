@@ -1,12 +1,14 @@
-## Hi there 👋
+## Hi there , I'm Sai Prakhash 👋
 
-Myself Sai Prakhash
+🔧 Embedded Systems | Python Developer | Automotive ECU
 
-🔭 currently working on DTC retrieving tool from EMS ECU with python and PCAN
+🚗 Building: DTC retrieval tool for EMS ECU using Python + PCAN
 
-🌱 currently into Python CAN library,Pytest,API,Pandas........
+📚 Currently learning: Python CAN library,Pytest,API,Pandas........
 
-HOPE We Build better world!!
+📫 Reach me: sai8.prakhash@gmail.com 
+
+Hope we build a better world! 🌍
 
 <!--
 **saipz/Saipz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
