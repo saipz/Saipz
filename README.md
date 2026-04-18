@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🔭 I’m currently working on DTC retrieving tool from EMS ECU with python and PCAN
+🌱 I’m currently learning Python CAN library,Pytest,API,Pandas..
+
 <!--
 **saipz/Saipz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
