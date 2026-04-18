@@ -1,12 +1,12 @@
 ## Hi there , I'm Sai Prakhash 👋
 
-🔧 Embedded Systems | Python Developer | Automotive ECU
+🔧 Embedded Systems | Python Developer - maybe someday | Automotive ECU 
 
 🚗 Building: DTC retrieval tool for EMS ECU using Python + PCAN
 
-📚 Currently learning: Python CAN library,Pytest,API,Pandas........
+📚 Currently learning: Python libraries, Vehicle Diagnostics, Embedded systems, LIFE
 
-📫 Reach me: sai8.prakhash@gmail.com 
+📫 Reach me: sai8.prakhash@gmail.com, www.linkedin.com/in/sai-prakhash-0797
 
 Hope we build a better world! 🌍
 
